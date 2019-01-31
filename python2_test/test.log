@@ -1,0 +1,8 @@
+2019-01-22 23:55:15,596 [socketUdpReal:DEBUG] creating instance
+2019-01-22 23:55:15,597 [coap:DEBUG] GET coap://127.0.0.1/test
+2019-01-22 23:55:15,597 [coapUri:DEBUG] uri      : coap://127.0.0.1/test
+2019-01-22 23:55:15,598 [coapUri:DEBUG] host     : ::ffff:127.0.0.1
+2019-01-22 23:55:15,598 [coapUri:DEBUG] port     : 5683
+2019-01-22 23:55:15,598 [coapUri:DEBUG] paths    : ['test']
+2019-01-22 23:55:15,599 [socketUdpReal:WARNING] goOn is false
+2019-01-22 23:55:15,599 [socketUdpReal:INFO] teardown

@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/yifei/.pyenv/versions/3.7.2/bin/python"
+}

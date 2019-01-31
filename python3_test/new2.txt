@@ -1,0 +1,14 @@
+************************************************************
+CoA
+P RFC 7252                              Cf 1.1.0-SNAPSHOT
+******
+******************************************************
+This serv
+er is using the Eclipse Californium (Cf) CoAP framework
+publishe
+d under EPL+EDL: http://www.eclipse.org/californium/
+
+(c) 2014, 
+2015, 2016 Institute for Pervasive Computing, ETH Zurich and oth
+ers
+************************************************************
